@@ -19,12 +19,14 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
 * Crea un archivo index.html que contenga la división de header, nav, main y footer.
-** ESTILOS BODY**
+### ESTILOS BODY
 * Cambia la fuente de todo el documento HTML
-** HEADER
+### ESTILOS HEADER
 * Dentro del apartado header incluye un título de nivel 1 donde ponga Recetas de <i>TUNOMBRE</i>.
 * Añade estilos al header como un color de fondo, cambio de tipog
+### ESTILOS NAV
 * Incluye varios enlaces en el nav (no tienen por qué llevar a ningún sitio) y espárcelos al ancho de la pantalla mediante flex.
+### ESTILOS MAIN
 * En el bloque main debes incluir divisor tipo flex.
 * Dentro de dicho divisor flex, debes incluir 5 divisores más que contendrán:
   - Una imagen de receta
@@ -32,4 +34,5 @@ Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejerci
   - Un <p> con una pequeña descripción de la receta
 * El flex deberá hacer un salto de línea cuando la página web encoja.
 * Dale estilo a los divs dentro del flex para que tengan formato tarjeta o card (box-shadow, border-radius...)
+### ESTILOS FOOTER
 * En el footer inlcuye una lista sin orden con enlaces a redes sociales: página principal de facebook, de x y de instagram.
