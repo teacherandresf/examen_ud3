@@ -19,7 +19,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
 * Crea un archivo index.html que contenga la división de header, nav, main y footer.
-** ESTILOS BODY
+** ESTILOS BODY**
 * Cambia la fuente de todo el documento HTML
 ** HEADER
 * Dentro del apartado header incluye un título de nivel 1 donde ponga Recetas de <i>TUNOMBRE</i>.
