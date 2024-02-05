@@ -42,7 +42,7 @@ Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejerci
 * Dentro de dicho divisor flex, debes incluir 5 divisores más que contendrán:
   - Una imagen de receta
   - Un título h4 con el nombre de la receta
-  - Un <p> con una pequeña descripción de la receta
+  - Un p con una pequeña descripción de la receta
 * El flex deberá hacer un salto de línea cuando la página web encoja.
 * Dale estilo a los divs dentro del flex para que tengan formato tarjeta o card (box-shadow, border-radius...)
 * Cuando pases el cursor por encima de las tarjetas estas se deben resaltar de alguna forma (algunas ideas: cambiar color de la sombra, añadir bordes de colores)
