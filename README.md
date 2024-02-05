@@ -16,9 +16,6 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 
 ## **PARTE 2. Páginas web HTML + CSS - 9 puntos**
 
-Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
-
-
 ### ESTILOS BODY - 0,5 puntos
 * Crea un archivo index.html que contenga la división de header, nav, main y footer.
 * Cambia la fuente de todo el documento HTML a una que te guste
