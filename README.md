@@ -14,7 +14,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * En caso de no visualizarse alguna página, dicho apartado o ejercicio contará como un 0 <b>no revisable. También si haces uso de la IA. </b>
 
 
-## **PARTE 2. Páginas web HTML + CSS - 8 puntos**
+## **PARTE 2. Páginas web HTML + CSS - 9 puntos**
 
 Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
@@ -36,7 +36,7 @@ Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejerci
 * Cambia el color de los enlaces interiores a un color visible y que combine (te recomiendo blanco).
 * Elimina el subrayado de los enlaces.
 * Da suficiente espacio para que no quede el texto agobiado.
-### ESTILOS MAIN- 3,5 puntos
+### ESTILOS MAIN- 4,5 puntos
 * Incluye un título de nivel 3 que ponga Recetas de la semana.
 * También en main debes incluir divisor tipo flex.
 * Dentro de dicho divisor flex, debes incluir 5 divisores más que contendrán:
