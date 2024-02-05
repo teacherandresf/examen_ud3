@@ -14,7 +14,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * En caso de no visualizarse alguna página, dicho apartado o ejercicio contará como un 0 <b>no revisable</b>.
 
 
-## **PARTE 2. Páginas web HTML + CSS - 4 puntos**
+## **PARTE 2. Páginas web HTML + CSS - 8 puntos**
 
 Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
