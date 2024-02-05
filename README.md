@@ -46,7 +46,7 @@ Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejerci
 * El flex deberá hacer un salto de línea cuando la página web encoja.
 * Dale estilo a los divs dentro del flex para que tengan formato tarjeta o card (box-shadow, border-radius...)
 * Cuando pases el cursor por encima de las tarjetas estas se deben resaltar de alguna forma (algunas ideas: cambiar color de la sombra, añadir bordes de colores)
-* Uno de los divs deberá tener un estilo distinto (color, color de sombra) algo que lo destaque, para indicar que está en oferta, que quedan pocas unidades, que es el más comprado...
+* Uno de los divs deberá tener un estilo distinto (color, color de sombra) algo que lo destaque. Ejemplos: para indicar que está en oferta, que quedan pocas unidades, que es el más comprado...
 ### ESTILOS FOOTER - 0,5 puntos
 * En el footer inlcuye una lista sin orden con enlaces a redes sociales: página principal de facebook, de x y de instagram.
 ### A TODA LA PÁGINA - 1 punto
