@@ -14,7 +14,7 @@ Lee atentamente estas indicaciones generales antes de realizar esta prueba:
 * En caso de no visualizarse alguna página, dicho apartado o ejercicio contará como un 0 <b>no revisable</b>.
 
 
-## **3. Páginas web HTML + CSS - 4 puntos**
+## **PARTE 2. Páginas web HTML + CSS - 4 puntos**
 
 Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejercicio3. Dentro de dicha carpeta realiza los siguientes apartados:
 
@@ -46,5 +46,8 @@ Crea una subcarpeta dentro de la carpeta raíz del proyecto que se titule ejerci
 * El flex deberá hacer un salto de línea cuando la página web encoja.
 * Dale estilo a los divs dentro del flex para que tengan formato tarjeta o card (box-shadow, border-radius...)
 * Cuando pases el cursor por encima de las tarjetas estas se deben resaltar de alguna forma (algunas ideas: cambiar color de la sombra, añadir bordes de colores)
+* Uno de los divs deberá tener un estilo distinto (color, color de sombra) algo que lo destaque, para indicar que está en oferta, que quedan pocas unidades, que es el más comprado...
 ### ESTILOS FOOTER
 * En el footer inlcuye una lista sin orden con enlaces a redes sociales: página principal de facebook, de x y de instagram.
+### A TODA LA PÁGINA
+* Incluye un punto de ruptura para pantallas móviles (menos de 400px por ejemplo) que haga que el contenido se visualice de forma distinta: intenta que todo se posicione correctamente y si lo hace automáticamente intenta añadir algo que solo se vea para estos tamaños de pantallas.
